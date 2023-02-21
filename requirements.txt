@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+thefuzz
+nltk
+unidecode
+
+click
+lint
+black
+pytest
+pytest-cov
